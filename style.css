@@ -62,7 +62,7 @@ span {
   text-align: center; /* Center align text */
 }
 
-.number, .address, .email {
+.number, .address {
   text-align: center; /* Center align text */
   margin-top: 10px; /* Add margin for spacing */
   font-size: 15px; /* Adjusted font size */
